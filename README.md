@@ -7,7 +7,6 @@
 
 ![COMSOL](https://img.shields.io/badge/COMSOL-Multiphysics-blue?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Post--Processing-Excel-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
